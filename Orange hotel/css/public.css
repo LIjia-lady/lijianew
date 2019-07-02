@@ -1,0 +1,166 @@
+*{
+	margin: 0px;
+	padding: 0px
+}
+.nav{
+	width: 100%;
+	height: 60px;
+	position: relative;
+	background: #fbf3f4;
+}
+.logo{
+	width: 30px;
+	height: auto;
+	margin-left:100px;
+	margin-top: 15px;
+}
+.china{
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	left: 140px;
+	top: 13px;
+	color: #5f1c4a;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+.nav>.left{
+	list-style-type: none;
+	width: 480px;
+	height: 30px;
+	position: absolute;
+	left: 250px;
+	top: 15px;
+	font-size: 15px;
+}
+.nav>.left>li{
+	width: 80px;
+	height:30px;
+	line-height: 30px;
+	float: left;
+	text-align: center;
+}
+.nav>.left>li>a{
+	text-decoration: none;
+}
+.nav>.left>li>a:link,.nav>.left>li>a:visited{
+	color: #5a5b5b;
+}
+.nav>.left>li>a:hover{
+	font-weight: bold;
+	color: #6c174b;
+}
+.nav>.right{
+	list-style-type: none;
+	width: 180px;
+	height: 30px;
+	position: absolute;
+	right: 80px;
+	top: 15px;
+	font-size: 15px;
+}
+.nav>.right>.d{
+	width: 70px;
+	height:25px;
+	line-height: 25px;
+	float: left;
+	text-align: center;
+	border:solid #7f1f59 1px;
+	margin: 0px 5px;
+}
+.nav>.right>.d>a{
+	text-decoration: none;
+	display: block;
+}
+.nav>.right>.d>a:link,.nav>.left>.d>a:visited{
+	color: #7f1f59;
+}
+.nav>.right>.d>a:hover{
+	background: #6c174b;
+	color: #fff;
+}
+.nav>.right>.z{
+	width: 70px;
+	height:25px;
+	line-height: 25px;
+	float: left;
+	text-align: center;
+	border:solid #7f1f59 1px;
+	margin: 0px 5px;
+}
+.nav>.right>.z>a{
+	text-decoration: none;
+	display: block;
+	color: #fff;
+}
+.nav>.right>.z>a:link,.nav>.left>.d>a:visited{
+	background: #7f1f59;
+}
+.nav>.right>.z>a:hover{
+	background: #6c174b;
+}
+.nav>.i{
+	position: absolute;
+	right:270px;
+	top:15px;
+	color: #7f1f59;
+}
+.nav>a>.sign1{
+	position: absolute;
+	right: 370px;
+	top: 18px;
+}
+.nav>a>.sign2{
+	position: absolute;
+	right: 330px;
+	top: 18px;
+}
+.nav>a>.sign3{
+	position: absolute;
+	right: 290px;
+	top: 18px;
+}
+.main{
+	width: 100%;
+	height: auto;/*高度根据页面自己定义*/
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	background: #faf8f9;
+	position: relative;
+}
+.footer>ul{
+	list-style-type: none;
+	width: 500px;
+	height: 25px;
+	font-size: 13px;
+	font-weight: bold;
+	position: absolute;
+	left: 420px;
+	top: 20px;
+}
+.footer>ul>li{
+	width: 100px;
+	height: 25px;
+	line-height: 25px;
+	float: left;
+	text-align: center;
+}
+.footer>ul>li>a{
+	text-decoration: none;
+}
+.footer>ul>li>a:link,.footer>ul>li>a:visited{
+	color: #6c174b;
+}
+.footer>ul>li>a:hover{
+	color:#7f1f99;
+}
+.footer>.foot{
+	color: #6c174b;
+	font-size: 13px;
+	position: absolute;
+	left: 432px;
+	top: 60px;
+}

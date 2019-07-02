@@ -1,0 +1,287 @@
+.main>.banner{
+	background: url(../img/Mbanner6.jpg);
+	height: 490px;
+	width: 100%;
+}
+.banner>a.a1{
+	font-size: 60px;
+	color: #b2b4b5;
+	text-decoration: none;
+	position: absolute;
+	left: 27%;
+	top: 40%;
+}
+.banner>a.a2{
+	font-size: 60px;
+	color: #b2b4b5;
+	text-decoration: none;
+	position: absolute;
+	left: 72%;
+	top: 40%;
+}
+.banner>a:hover{
+	color: #FFFFFF;
+}
+.part1{
+	width: 1000px;
+	height: 300px;
+	position:absolute;
+	left: 12.5%;
+}
+.part1>img.img1{
+	width: 60px;
+	height: 50px;
+	position: absolute;
+	left: 31%;
+	top: 20px;
+}
+.part1>p{
+	font-size: 25px;
+	color: #000000;
+	position: absolute;
+	top: 20px;
+	left:41.5% ;
+}
+.part1>img.img2{
+	width: 60px;
+	height: 50px;
+	position: absolute;
+	top: 20px;
+	left: 57%;
+}
+.part1>span.span1{
+	position: absolute;
+	top: 80px;
+	left: 18%;
+	color:#5A5B5B;
+	font-size: 16px;
+}
+.part1>span.span2{
+	position: absolute;
+	top: 106px;
+	left: 4%;
+	color:#5A5B5B;
+	font-size: 16px;
+}
+.part1>span.span3{
+	position: absolute;
+	top: 133px;
+	left: 16.5%;
+	color:#5A5B5B;
+	font-size: 16px;
+}
+.part1>.a1{
+	width: 160px;
+	height: 50px;
+	line-height: 50px;
+	position: absolute;
+	top: 190px;
+	left: 40%;
+	border: 1px solid #7F1F99;
+	text-align: center;
+}
+.part1>.a1:hover{
+	background: #5F1C4A;
+}
+.part1>.a1>a{
+	font-size: 25px;
+	color: #7F1F59;
+	text-decoration: none;
+}
+.part1>.a1>a:link,.part1>.a1>a:visited{
+	font-size: 25px;
+	color: #7F1F59;
+	text-decoration: none;
+}
+.part1>.a1>a:hover{
+	color: #FFFFFF;
+	font-size: 25px;
+}
+.part2{
+	width: 100%;
+	height: 356px;
+	position: absolute;
+	top: 850px;
+	background: url(../img/HzhBg.png);
+}
+.part2>h1{
+	margin-top: 50px;
+	margin-left:35%;
+	font-size: 25px;
+	color: #505051;
+}
+.part2>ul.ul1,.part2>ul.ul2,.part2>ul.ul3{
+	background:url(../img/yuan.png) no-repeat;
+	width:150px;
+	height: 180px;
+	position: absolute;
+	top: 150px;
+	
+}
+.part2>ul.ul1{
+	left: 32%;
+}
+.part2>ul.ul2{
+	left: 45%;
+}
+.part2>ul.ul3{
+	left: 58%;
+}
+.part2>ul>li{
+	width: 45px;
+	height: 50px;
+	line-height: 50px;
+	margin-left: 48px;
+	list-style-type: none;
+}
+.part2>ul>li.li1{
+	font-size: 22px;
+	color: #5F1C4A;
+	margin-top: 20px;
+	border-bottom: 1px solid #bbbcbc;
+}
+.part2>ul>li.li2{
+	font-size: 15px;
+	color: #404142;
+	text-align: center;
+}
+.part3{
+	width: 720px;
+	height: 500px;
+	position: absolute;
+	top: 1280px;
+	left:23%;
+}
+.part4{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	top: 1800px;
+	background: url(../img/courtesy-bg.jpg);
+}
+.part4>p{
+	font-size: 27px;
+	color: #000000;
+	position: absolute;
+	top: 40px;
+	left:16% ;
+}
+.part4>ul.ul1,.part4>ul.ul2,.part4>ul.ul3,.part4>ul.ul4{
+	width:250px;
+	height: 300px;
+	position: absolute;
+	top: 100px;
+}
+.part4>ul.ul1{
+	left: 16%;
+}
+.part4>ul.ul2{
+	left: 34.5%;
+}
+.part4>ul.ul3{
+	left: 53%;
+}
+.part4>ul.ul4{
+	left: 71.5%;
+}
+.part4>ul>li{
+	list-style-type: none;
+	width: 130px;
+}
+.part4>ul>li.img{
+	width: 232px;
+	height: 142px;
+}
+.part4>ul>li.li1{
+	width:200px ;
+	height: 50px;
+	line-height: 50px;
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+}
+.part4>ul>li.li2{
+	width:150px ;
+	height: 70px;
+	font-size: 15px;
+	color: #858688;
+}
+.part5{
+	width: 100%;
+	height: 150px;
+	background: #35043d;
+	position: absolute;
+	top: 2200px;
+}
+.part5>span{
+	font-size: 23px;
+	color: #FFFFFF;
+	float: left;
+	margin-left:15%;
+	margin-top: 60px;
+}
+.part5>a.a1{
+	width: 120px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 23px;
+	color: #FFFFFF;
+	float: right;
+	border: 1px solid #FFFFFF;
+	margin-right: 15%;
+	margin-top: 55px;
+	text-decoration: none;
+}
+.part6>img{
+	width: 1009px;
+	height: 196px;
+	position: absolute;
+	top: 2400px;
+	left: 10%;
+}
+.part7{
+	width: 100%;
+	height: 450px;
+	background: #faf9fa;
+	position: absolute;
+	top:2650px ;
+}
+.part7>img{
+	width: 480px;
+	height: 362px;
+	float: left;
+	margin-top: 43px;
+	margin-left: 12%;
+}
+.part7>.right{
+	width: 480px;
+	height: 362px;
+	float: right;
+	margin-top: 43px;
+	margin-right: 12%;
+}
+.part7>.right>.p1{
+	font-size: 25px;
+	color: #000000;
+}
+.part7>.right>.p2{
+	font-size: 16px;
+	color: #68696a;
+	margin-top: 40px;
+/*	margin-bottom: 40px;*/
+}
+.part7>.right>a{
+	margin-top: 40px;
+	text-decoration: none;
+	font-size: 16px;
+	color: #5F1C4A;
+	margin-top: 40px;
+}
+.side{
+	width: 140px;
+	height: 130px;
+	position: fixed;
+	left: 0px;
+	top: 60%;
+}
